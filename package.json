@@ -1,7 +1,9 @@
 {
-  "name": "3dfolio",
+  "name": "sandeep-portfolio",
+  "version": "1.0.0",
   "private": true,
-  "version": "0.0.0",
+  "description": "Interactive 3D Developer Portfolio built by Sandeep Raouthu using React, Three.js, and Vite.",
+  "author": "Sandeep Raouthu",
   "type": "module",
   "scripts": {
     "dev": "vite",
