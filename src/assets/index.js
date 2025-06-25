@@ -22,7 +22,6 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import infosys from "./company/infosys.png";
-import technova from "./company/technova.png";
 
 import gamingcert from "./gaming_cert.jpg";
 import healthvault from "./healthvault_cert.jpg";
@@ -54,7 +53,6 @@ export {
   typescript,
   threejs,
   infosys,
-  technova,
   shopsmart,
   containersec,
   aiimage,

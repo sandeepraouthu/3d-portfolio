@@ -12,7 +12,7 @@ const Hero = () => {
         {/* Left Side (Text) */}
         <div className='flex flex-col justify-center items-start mt-5 w-1/2'>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className='text-[#915EFF]'>Sandeep</span>
+            Hi, I'm <span className='text-[#915EFF]'> Raouthu Sandeep</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I am a Full Stack Developer <br className='sm:block hidden' />

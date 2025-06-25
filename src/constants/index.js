@@ -15,7 +15,6 @@ import {
   docker,
   threejs,
   infosys,
-  technova,
   shopsmart,
   containersec,
   aiimage,
@@ -127,19 +126,6 @@ const experiences = [
       "Built and deployed REST APIs using Spring Boot and integrated them with React.js frontend.",
       "Worked with MySQL and Hibernate for efficient data persistence.",
       "Gained hands-on experience in full-stack software development life cycle.",
-    ],
-  },
-  {
-    title: "Frontend Developer Intern",
-    company_name: "Technova",
-    icon: technova,
-    iconBg: "#383E56",
-    date: "Jan 2025 - Mar 2025",
-    points: [
-      "Developed responsive user interfaces using React.js and Tailwind CSS.",
-      "Worked in a collaborative environment using Git and Agile practices.",
-      "Built modular components to improve performance and reusability.",
-      "Participated in code reviews and UI/UX improvement sessions.",
     ],
   },
 ];
